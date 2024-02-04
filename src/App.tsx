@@ -15,8 +15,8 @@ function App() {
 
   return (
     <div className="d-flex flex-column justify-content-center gap-3 p-4">
-      <CreatePost triggerRefetch={triggerRefetch} />
       <ShowPosts posts={posts} triggerRefetch={triggerRefetch} setPostToUpdateId={setPostToUpdateId}  />
+      <CreatePost triggerRefetch={triggerRefetch} />
       <EditPost postId={postToUpdateId} onEditComplete={onEditComplete} />
     </div>
   )
