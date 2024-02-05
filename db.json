@@ -2,33 +2,18 @@
   "posts": [
     {
       "id": "e5dd",
-      "title": "Here we go! Again!",
+      "title": "This is the first post!",
       "content": "I made this work!"
     },
     {
       "id": "2ab5",
-      "title": "So. I made it!",
+      "title": "And here comes the second post",
       "content": "A fully functioning CRUD app!"
     },
     {
       "id": "e174",
       "title": "One more post",
       "content": "One more psot indeed!"
-    },
-    {
-      "id": "0618",
-      "title": "asdlfijasdlf",
-      "content": "lkjaweörlkjasdf"
-    },
-    {
-      "id": "1161",
-      "title": "aselrijasdlkfjöaksldjrölk",
-      "content": "ölkajwerölkajsdöflkajser"
-    },
-    {
-      "id": "4fbc",
-      "title": "aserpialjsdlfkj",
-      "content": "ölkjweölkajsdölkjaesrasdf"
     }
   ]
 }
