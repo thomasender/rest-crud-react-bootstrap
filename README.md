@@ -29,6 +29,7 @@ The project uses several libraries and tools, including React, Axios for HTTP re
 ## Backend: Json Server
 
 The backend is a simple json-server with a db.json file that contains the data.
+All the data is stored in the db.json file.
 It acts like a REST API and provides the data for the frontend.
 The Json Server spins up on port 3333.
 The `posts` endpoint is available and provides the following methods:
